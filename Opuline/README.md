@@ -1,3 +1,3 @@
-# Projeto Olist
+# Projeto Opuline
 
-![Dashboard do curso realizando ETL no Power Query](https://github.com/user-attachments/assets/fcbd970c-d989-4505-b7ef-b03193ea64a4)
+![Opuline](https://github.com/user-attachments/assets/687b7ad6-f726-4ee9-ba14-c9e2455815eb)
